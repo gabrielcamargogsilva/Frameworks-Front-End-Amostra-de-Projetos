@@ -79,10 +79,11 @@ Desenvolver, em grupo, quatro projetos Web abordando o mesmo tema, utilizando di
 ---
 
 ## 👥 Integrantes do Grupo
+- **Edilaine Paulino Soldé** — [GitHub](https://github.com/edilainesolde2024-blip)
+- **Fabio Bitencourt Ribeiro** — [GitHub](https://github.com/fabiobitencourt93)
 - **Gabriel Camargo Gonçalves Silva** — [GitHub](https://github.com/gabrielcamargogsilva)
-- **Integrante 02** — [GitHub](https://github.com/usuario2)
-- **Integrante 03** — [GitHub](https://github.com/usuario3)
-- **Integrante 04** — [GitHub](https://github.com/usuario4)
+- **Guilherme Lima Leite** — [GitHub](https://github.com/guilhermelleiteads)
+- **Ronaldo Francisco Soares** - [GitHub](https://github.com/ronaldorfas)
 
 ---
 
