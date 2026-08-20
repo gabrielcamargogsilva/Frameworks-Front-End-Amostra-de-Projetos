@@ -91,10 +91,10 @@ Desenvolver, em grupo, quatro projetos Web abordando o mesmo tema, utilizando di
 
 | Projeto | Tecnologia | Repositório |
 | :--- | :---: | :---: |
-| **Projeto 01** | React | [GitHub](#) |
-| **Projeto 02** | Vue.js | [GitHub](#) |
+| **Projeto 01** | React | [GitHub](https://github.com/edilainesolde2024-blip/react.git) |
+| **Projeto 02** | Vue.js | [GitHub](https://github.com/ronaldorfas/vueF1.git) |
 | **Projeto 03** | Angular | [GitHub](https://github.com/gabrielcamargogsilva/primeiro-projeto-angular.git) |
-| **Projeto 04** | Next.js | [GitHub](#) |
-| **Projeto 05** | *Cópia de Repositório* | [GitHub](#) |
+| **Projeto 04** | Next.js | [GitHub](https://github.com/guilhermelleiteads/Atividade-Projeto-04-next-js) |
+| **Projeto 05** | *Cópia de Repositório* | [GitHub](https://github.com/fabiobitencourt93/Tetris.git) |
 
 ---
