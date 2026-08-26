@@ -98,3 +98,30 @@ Desenvolver, em grupo, quatro projetos Web abordando o mesmo tema, utilizando di
 | **Projeto 05** | *Cópia de Repositório* | [GitHub](https://github.com/fabiobitencourt93/Tetris.git) |
 
 ---
+
+## 4ª Aula
+---
+
+### 🔹 Atividade 01 — Pesquisa e Análise de Projetos com APIs
+
+**Descrição:**
+Pesquisar 10 projetos no GitHub que utilizam algum tipo de API em suas aplicações. Clonar e analisar os projetos identificando o framework utilizado, as APIs consumidas e a funcionalidade do projeto.
+
+---
+
+### 📊 Tabela de Projetos Analisados
+
+| Projeto | Repositório no GitHub | O que o projeto faz | Framework / Tecnologia | API Utilizada |
+| :--- | :--- | :--- | :--- | :--- |
+| **HTTP Cats** | [GitHub](https://github.com/httpcats/http.cat) | Exibe imagens divertidas de gatos para ilustrar e explicar cada código de status HTTP (ex: 404, 500). | Node.js / JavaScript | HTTP Cats API |
+| **PokéApp (Pokédex)** | [GitHub](https://github.com/alik0211/pokedex) | Funciona como uma Pokédex digital para pesquisar, filtrar e ver detalhes e estatísticas de Pokémon. | React (Redux, Tailwind CSS) | PokéAPI |
+| **Ground Station** | [GitHub](https://github.com/sgoudelis/ground-station) | Rastreia a Estação Espacial Internacional (ISS) e satélites em tempo real exibindo a posição no mapa. | React (WebSockets) | Open Notify API / Satellite Tracking |
+| **Crypto Tracker** | [GitHub](https://github.com/piyush-eon/react-crypto-tracker) | Exibe cotações, variações de preço e gráficos em tempo real de diversas criptomoedas. | React (Material-UI, Chart.js) | CoinGecko API |
+| **Projeto Geolocalização** | [GitHub](https://github.com/gabrielcamargogsilva/Projeto-Geolocaliza--o) | Captura as coordenadas do usuário pelo navegador e exibe a localização exata em um mapa interativo. | JavaScript Vanilla / HTML / CSS | Geolocation API (Browser/Leaflet) |
+| **Consultor de Treino** | [GitHub](https://github.com/gabrielcamargogsilva/Consultor-de-treino---Front-End) | Gera rotinas de treino personalizadas via inteligência artificial com base nas preferências informadas pelo usuário. | JavaScript / HTML / CSS | Google Gemini API |
+| **Projeto API Tabela FIPE** | [GitHub](https://github.com/gabrielcamargogsilva/Projeto-API-Tabela-FIPE) | Consulta os preços médios de veículos (carros, motos, caminhões) cadastrados na Tabela FIPE oficial. | JavaScript / HTML / CSS | Brasil API / Parallelum FIPE API |
+| **Advice Generator App** | [GitHub](https://github.com/JohnMwendwa/advice-generator-app) | Gera e exibe frases de conselhos aleatórias a cada clique no botão de ação. | JavaScript Vanilla / HTML / CSS | Advice Slip API |
+| **Spotify React Auth** | [GitHub](https://github.com/kauffecup/spotify-react-router-auth) | Autentica a conta do usuário no Spotify e permite visualizar dados do perfil e tocar músicas. | React (React Router) | Spotify Web API |
+| **REST Countries Dashboard** | [GitHub](https://github.com/Ayokanmi-Adejola/Rest-Countries-Dashboard) | Exibe um painel de países com busca, filtro por região e detalhes sobre população, capital e bandeiras. | React (Tailwind CSS) | REST Countries API |
+
+---
