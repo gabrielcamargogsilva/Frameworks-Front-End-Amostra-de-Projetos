@@ -125,3 +125,18 @@ Pesquisar 10 projetos no GitHub que utilizam algum tipo de API em suas aplicaç�
 | **REST Countries Dashboard** | [GitHub](https://github.com/Ayokanmi-Adejola/Rest-Countries-Dashboard) | Exibe um painel de países com busca, filtro por região e detalhes sobre população, capital e bandeiras. | React (Tailwind CSS) | REST Countries API |
 
 ---
+
+### 🔹 Atividade 02 — API Express de Data/Hora & Aplicação Front-End em React
+
+**Descrição:**
+Desenvolvimento e publicação de uma API REST utilizando Express com uma rota para consulta de data e hora atual, realizando o deploy no Render. Separação da aplicação Front-End desenvolvida em React em um repositório independente para consumir os dados da API criada e renderizá-los em tela.
+
+**Tecnologias:**
+- **Back-End:** Node.js / Express / Render
+- **Front-End:** React / JavaScript
+
+**🔗 Links da Atividade:**
+- [Repositório Back-End (API Express)](https://github.com/gabrielcamargogsilva/api-express-aula-04.git)
+- [Repositório Front-End (React)](https://github.com/gabrielcamargogsilva/front-end-aula-04-frameworks-front-end.git)
+
+---
