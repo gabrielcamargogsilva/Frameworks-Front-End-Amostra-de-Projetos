@@ -140,3 +140,29 @@ Desenvolvimento e publicação de uma API REST utilizando Express com uma rota p
 - [Repositório Front-End (React)](https://github.com/gabrielcamargogsilva/front-end-aula-04-frameworks-front-end.git)
 
 ---
+
+## 5ª Aula
+---
+
+### 🔹 Atividade 01 — Atualização do Repositório da Disciplina
+
+**Descrição:**
+Organização e sincronização do repositório principal da disciplina no GitHub, garantindo que a versão pública esteja atualizada, completa e pronta para envio pelo formulário de avaliação.
+
+---
+
+### 🔹 Atividade 02 — API RESTful CRUD Express, Consumo Front-End e Documentação no Postman
+
+**Descrição:**
+Desenvolvimento de um servidor Back-End em Express.js provendo rotas RESTful para realização do ciclo CRUD (Create, Read, Update, Delete) utilizando persistência de dados em arquivo JSON, com deploy publicado no Render. Criação da aplicação Front-End em React para consumo das rotas da API e documentação completa da coleção de endpoints no Postman.
+
+**Tecnologias:**
+- **Back-End:** Node.js / Express.js / CORS / Render
+- **Front-End:** React / JavaScript / Vercel
+- **Ferramentas:** Postman
+
+**🔗 Links da Atividade:**
+- [Repositório Back-End (API Express REST)](https://github.com/gabrielcamargogsilva/api-express-aula-04.git)
+- [Repositório Front-End (React)](https://github.com/gabrielcamargogsilva/front-end-aula-04-frameworks-front-end.git)
+
+---
