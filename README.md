@@ -166,3 +166,71 @@ Desenvolvimento de um servidor Back-End em Express.js provendo rotas RESTful par
 - [Repositório Front-End (React)](https://github.com/gabrielcamargogsilva/front-end-aula-04-frameworks-front-end.git)
 
 ---
+
+## 6ª Aula
+---
+
+### 🔹 Gestão de Projetos Front-End & Metodologia Ágil (Scrum)
+
+**Descrição:**
+Estudo sobre conceitos fundamentais de gestão de projetos front-end, mapeamento de requisitos (User Stories, Tarefas), organização de backlog, estimativas de prioridade, definição de pronto (*Definition of Done*) e aplicação do framework Scrum com quadros Kanban. Planejamento estruturado das etapas de desenvolvimento para mitigação de riscos, conflitos de repositório e atrasos de entrega.
+
+---
+
+## 7ª Aula
+---
+
+### 🔹 Atividade 01 — Estruturação CSS, Box Model & Layout Flexbox Responsivo
+
+**Descrição:**
+Desenvolvimento de uma página web utilizando vinculação de CSS Externo via tag `<link>`. Aplicação do conceito de Box Model (Content, Padding, Border e Margin) em 20 elementos distintos, combinados com mais de 20 propriedades do módulo Flexbox para estruturação de um layout totalmente responsivo e organizado.
+
+**Tecnologias:**
+- HTML5 / CSS3 (Flexbox & Box Model)
+
+**🔗 Links da Atividade:**
+- [Repositório GitHub](https://github.com/gabrielcamargogsilva/Aula-07---Atividade-01.git)
+
+---
+
+### 🔹 Atividade 02 — Estilização com Framework Utility-First (Tailwind CSS)
+
+**Descrição:**
+Construção de uma interface web dinâmica utilizando a abordagem *Utility-First* do Tailwind CSS. Aplicação de mais de 30 classes utilitárias abrangendo estilização de cores, tipografia, espaçamentos, bordas, dimensionamento, posicionamento, Flexbox e regras responsivas Mobile-First.
+
+**Tecnologias:**
+- HTML5 / Tailwind CSS
+
+**🔗 Links da Atividade:**
+- [Repositório GitHub](https://github.com/gabrielcamargogsilva/Aula-07---Atividade-02.git)
+
+---
+
+## 🏆 Hackathon
+---
+
+### 🔹 Desafio de Desenvolvimento Rápido de Aplicação Web
+
+**Descrição:**
+Atividade prática no formato de Hackathon realizada entre a 7ª e a 8ª aula, focada no planejamento, prototipagem, desenvolvimento acelerado e integração de uma aplicação front-end responsiva sob demanda.
+
+**🔗 Links da Atividade:**
+- [Repositório GitHub (Hackathon)](https://github.com/w-tangly/hackaton_deivison.git)
+
+---
+
+## 8ª Aula
+---
+
+### 🔹 Atividade Prática — Aplicação React Completa (JSX, Props & Virtual DOM)
+
+**Descrição:**
+Desenvolvimento de uma aplicação interativa em React consolidando os principais pilares da biblioteca: estrutura de componentes funcionais com JSX, fluxo de dados via Props, renderização de coleções dinâmicas com métodos funcionais de array (`.map()`, `.filter()`) utilizando `keys` únicas, e controle de renderização condicional de estados da interface.
+
+**Tecnologias:**
+- React / JSX / JavaScript ES6 / CSS3
+
+**🔗 Links da Atividade:**
+- [Repositório GitHub](https://github.com/gabrielcamargogsilva/Atividade-Aula-08.git)
+
+---
