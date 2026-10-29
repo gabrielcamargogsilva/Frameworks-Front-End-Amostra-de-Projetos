@@ -222,7 +222,7 @@ Atividade prática no formato de Hackathon realizada entre a 7ª e a 8ª aula, f
 ## 8ª Aula
 ---
 
-### 🔹 Atividade Prática — Aplicação React Completa (JSX, Props & Virtual DOM)
+### 🔹 Atividade Prática — Aplicação React Completa (JSX, Props & Virtual DOM) (GB Semijoias)
 
 **Descrição:**
 Desenvolvimento de uma aplicação interativa em React consolidando os principais pilares da biblioteca: estrutura de componentes funcionais com JSX, fluxo de dados via Props, renderização de coleções dinâmicas com métodos funcionais de array (`.map()`, `.filter()`) utilizando `keys` únicas, e controle de renderização condicional de estados da interface.
@@ -232,5 +232,23 @@ Desenvolvimento de uma aplicação interativa em React consolidando os principai
 
 **🔗 Links da Atividade:**
 - [Repositório GitHub](https://github.com/gabrielcamargogsilva/Atividade-Aula-08.git)
+- [Deploy Vercel](https://gb-semijoias.vercel.app/)
+
+---
+
+## 9ª Aula
+---
+
+### 🔹 Atividade Prática — Aplicação React Completa (State, Formulários, useEffect, APIs & React Router)
+
+**Descrição:**
+Continuidade e evolução da aplicação **GB Semijoias** (iniciada na 8ª aula), aprofundando o desenvolvimento front-end com os pilares fundamentais do ecossistema React moderno: gerenciamento de estados dinâmicos com `useState`, controle de ciclo de vida e requisições assíncronas com `useEffect`, consumo e integração com APIs para renderização dinâmica do catálogo de produtos, criação e manipulação de formulários controlados, e navegação SPA (*Single Page Application*) estruturada com rotas dinâmicas utilizando `React Router`.
+
+**Tecnologias:**
+- React / React Router DOM / Hooks (`useState`, `useEffect`) / Consumo de APIs / Formulários / JavaScript ES6 / CSS3 / Vercel
+
+**🔗 Links da Atividade:**
+- [Repositório GitHub](https://github.com/gabrielcamargogsilva/Atividade-Aula-08.git)
+- [Deploy Vercel](https://gb-semijoias.vercel.app/)
 
 ---
